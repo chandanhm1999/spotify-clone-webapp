@@ -1,5 +1,7 @@
 Deployed Link: https://spotify-clone-webapp.vercel.app/
 
+![home](https://user-images.githubusercontent.com/109410990/232092755-0426d0df-2df3-41f5-bb00-33664d2726e8.png)
+![Spotify](https://user-images.githubusercontent.com/109410990/232092778-ba2067e7-6195-45a6-96b3-0611312eb2e4.png)
 
 
 # Getting Started with Create React App
