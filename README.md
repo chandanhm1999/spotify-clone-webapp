@@ -1,8 +1,16 @@
+Spotify is a music service and it provides it's API for development. We have used Spotify Api for creating a Spotify Clone with React JS, Styled Components using Spotify Api and Context API.
+
+We have used Context Api and useReducer Hook for state management.
+
 Deployed Link: https://spotify-clone-webapp.vercel.app/
 
 ![home](https://user-images.githubusercontent.com/109410990/232092755-0426d0df-2df3-41f5-bb00-33664d2726e8.png)
 ![Spotify](https://user-images.githubusercontent.com/109410990/232092778-ba2067e7-6195-45a6-96b3-0611312eb2e4.png)
 
+Spotify API : https://developer.spotify.com/documen...
+Spotify App : https://developer.spotify.com/dashboard/
+
+#spotifyclone #react #kishansheth #mernprojects #reactspotifyclone #reactclone #cloneprojects #reactjs #nodejs #javascript #mongodb #express #styledcomponents
 
 # Getting Started with Create React App
 
