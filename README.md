@@ -10,7 +10,7 @@ Deployed Link: https://spotify-clone-webapp.vercel.app/
 Spotify API : https://developer.spotify.com/documen...
 Spotify App : https://developer.spotify.com/dashboard/
 
-#spotifyclone #react #kishansheth #mernprojects #reactspotifyclone #reactclone #cloneprojects #reactjs #nodejs #javascript #mongodb #express #styledcomponents
+#spotifyclone #react #mernprojects #reactspotifyclone #reactclone #cloneprojects #reactjs #nodejs #javascript #mongodb #express #styledcomponents
 
 # Getting Started with Create React App
 
